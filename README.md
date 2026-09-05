@@ -1,4 +1,4 @@
-# Lab1 -Noura Aldossari Group2
+# Lab1 -Noura Aldossari 2250030212 Rana Alshahrani 2250030293 -Ghala Ahmed 2250030124- Reem Yousif Alrobea 2250030263 - Rahaf Alfawzan 2250030088 -Muna Almajed 2250030068 Group2
 1. Why is reshaping important in NumPy?
 Reshaping is important because it changes the shape of an array without changing the values.
 
